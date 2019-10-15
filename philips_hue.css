@@ -1,0 +1,62 @@
+body {
+  font-family: sans-serif;
+  color: red;
+  background-color: black;
+  line-height: 2;
+}
+
+#h1_2 {
+  text-align: center;
+}
+
+lijst {
+  display:table; margin:0 auto;
+}
+
+.over_ons, .onze_code, .home, #link {
+  color: red;
+  font-size: 30px;
+}
+
+.onze_code:hover{
+  font-size: 40px;
+}
+.over_ons:hover{
+  font-size: 40px;
+}
+
+.home:hover{
+  font-size: 40px;
+}
+
+#link:hover{
+  font-size: 40px;
+}
+
+#img, #img1, #img2 {
+  background-color: lightgrey;
+  border: 15px solid green;
+  padding: 25px;
+  margin: 10px;
+  text-align: left;
+}
+
+#img2 {
+  width: 575px;
+  height: 900px;
+}
+
+
+td {
+  padding: 10px;
+}
+
+.linktable{
+  background-color: darkblue;
+  border-radius:  300px;
+  border: 10px solid darkblue;
+}
+
+h1 {
+  text-align: center;
+}
